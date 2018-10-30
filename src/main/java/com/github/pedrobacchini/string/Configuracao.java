@@ -1,8 +1,9 @@
-package com.github.pedrobacchini;
+package com.github.pedrobacchini.string;
 
 /*
 Exemplo manipulando string
  */
+import com.github.pedrobacchini.Conexao;
 import redis.clients.jedis.Jedis;
 
 public class Configuracao {

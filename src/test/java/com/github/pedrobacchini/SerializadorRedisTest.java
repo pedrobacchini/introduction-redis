@@ -1,6 +1,7 @@
 package com.github.pedrobacchini;
 
 import com.github.pedrobacchini.domain.Pessoa;
+import com.github.pedrobacchini.serializador.SerializadorRedis;
 import org.junit.Test;
 
 import java.io.IOException;

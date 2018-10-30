@@ -1,5 +1,6 @@
 package com.github.pedrobacchini;
 
+import com.github.pedrobacchini.string.Configuracao;
 import org.junit.Test;
 
 import java.util.UUID;

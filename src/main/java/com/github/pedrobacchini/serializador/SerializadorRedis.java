@@ -1,5 +1,6 @@
-package com.github.pedrobacchini;
+package com.github.pedrobacchini.serializador;
 
+import com.github.pedrobacchini.Conexao;
 import com.github.pedrobacchini.domain.Pessoa;
 import redis.clients.jedis.Jedis;
 
