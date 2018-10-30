@@ -13,3 +13,5 @@ Recursos explorados:
 - hashes
 - transção
 - publicados/assinante
+
+Por ultimo foi adicionado o suporte ao Spring Data Redis e também foi explorado os recursos a cima citados porém utilizando esse frameqork que como pode ser visto pelo projeto facilita muito a manipulação do Redis.
